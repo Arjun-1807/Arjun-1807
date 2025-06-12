@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Debugging since 2019<br>📚 I'm currently learning Python to expand my skills<br>🌍 Open to collaboration on: Python, ML projects.</p>
+<p align="left">✨ Debugging since 2023<br>📚 I'm currently learning Python to expand my skills<br>🌍 Open to collaboration on: Python, ML projects.</p>
 
 ###
 
